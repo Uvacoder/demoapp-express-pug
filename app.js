@@ -1,3 +1,12 @@
+/* 
+  Simple web app using http module to compare with Express
+
+  Try the following adresses:
+  http://127.0.0.1:3000/
+  http://127.0.0.1:3000/index.html
+  http://127.0.0.1:3000/img/picture.jpg
+  Can you see the difference?
+*/
 const http = require('http');
 
 const hostname = '127.0.0.1';
